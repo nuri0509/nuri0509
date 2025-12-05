@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 공간정보(GIS) 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> GIS 경험을 바탕으로</li> 현실세계와 가상세계를 이어주는</li> 디지털 트윈 시스템을 개발하고 있습니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> GIS 경험을 바탕으로</li> 현실세계와 가상세계를 이어주는</li> 디지털트윈 시스템을 개발하고 있습니다.</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -21,8 +21,5 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=nuri0509&bg_color=180,5cc785,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuri0509&layout=compact&bg_color=180,5cc785,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
-    
